@@ -35,9 +35,10 @@ A fully responsive, animated, and modern portfolio website built with **React**,
 ├── tailwind.config.js
 ├── tsconfig.json
 ├── vite.config.ts
+'''
 
 ---
-'''
+
 
 ## 🔑 Features
 
