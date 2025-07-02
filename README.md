@@ -10,33 +10,7 @@ A fully responsive, animated, and modern portfolio website built with **React**,
 
 ## 📁 Project Structure
 
-.
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── AboutSection.tsx
-│ │ ├── CertificationsSection.tsx
-│ │ ├── ContactSection.tsx
-│ │ ├── Footer.tsx
-│ │ ├── GreetingOverlay.tsx
-│ │ ├── HeroSection.tsx
-│ │ ├── Navbar.tsx
-│ │ ├── ProjectsSection.tsx
-│ │ ├── ResumeSection.tsx
-│ │ └── SkillsSection.tsx
-│ ├── App.tsx
-│ ├── index.css
-│ ├── main.tsx
-│ ├── vite-env.d.ts
-│
-├── index.html
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.json
-├── vite.config.ts
-'''
-
+```plaintext . ├── public/ ├── src/ │ ├── components/ │ │ ├── AboutSection.tsx │ │ ├── CertificationsSection.tsx │ │ └── SkillsSection.tsx │ ├── App.tsx │ ├── index.css │ ├── main.tsx │ └── vite-env.d.ts ├── index.html ├── package.json ├── tailwind.config.js ├── tsconfig.json └── vite.config.ts ``` 
 ---
 
 
