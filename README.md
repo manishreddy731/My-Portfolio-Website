@@ -10,7 +10,7 @@ A fully responsive, animated, and modern portfolio website built with **React**,
 
 ## 📁 Project Structure
 
-```plaintext . ├── public/ ├── src/ │ ├── components/ │ │ ├── AboutSection.tsx │ │ ├── CertificationsSection.tsx │ │ └── SkillsSection.tsx │ ├── App.tsx │ ├── index.css │ ├── main.tsx │ └── vite-env.d.ts ├── index.html ├── package.json ├── tailwind.config.js ├── tsconfig.json └── vite.config.ts ``` 
+```├── public/ ├── src/ │ ├── components/ │ │ ├── AboutSection.tsx │ │ ├── CertificationsSection.tsx │ │ └── SkillsSection.tsx │ ├── App.tsx │ ├── index.css │ ├── main.tsx │ └── vite-env.d.ts ├── index.html ├── package.json ├── tailwind.config.js ├── tsconfig.json └── vite.config.ts ``` 
 ---
 
 
