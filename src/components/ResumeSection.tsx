@@ -57,7 +57,7 @@ const ResumeSection: React.FC = () => {
       institution: "Lovely Professional University",
       location: "Punjab, India",
       degree: "Bachelor of Technology - Computer Science and Engineering",
-      score: "CGPA: 7.00",
+      score: "CGPA: 6.9",
       date: "Since August 2022"
     },
     {
@@ -71,7 +71,7 @@ const ResumeSection: React.FC = () => {
       institution: "Adarsh Vidya Bhavan",
       location: "Hyderabad, Telangana",
       degree: "Matriculation",
-      score: "Percentage: 87%",
+      score: "Percentage: 83.5%",
       date: "June 2016 - March 2018"
     }
   ];
@@ -85,7 +85,7 @@ const ResumeSection: React.FC = () => {
               My <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">Resume</span>
             </h2>
             <a
-              href="https://drive.google.com/file/d/1YWkDE6BB3OkIh4u5WSDHdzGFqoTduA9x/view?usp=sharing"
+              href="https://drive.google.com/file/d/1O9zp-ZdfonWDrlN6kpB6yWLkfKr-Q1Fo/view?usp=sharing"
               download
               className="flex items-center px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors"
             >
