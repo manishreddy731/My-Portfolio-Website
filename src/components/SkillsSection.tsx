@@ -16,9 +16,8 @@ const skills: Skill[] = [
   { name: 'DSA', icon: <Code size={40} />, category: 'languages' },
   
   // Frameworks & Libraries
-  { name: 'Spring Boot', icon: <Server size={40} />, category: 'frameworks' },
-  { name: 'HTML', icon: <FileCode size={40} />, category: 'frameworks' },
-  { name: 'CSS', icon: <FileCode size={40} />, category: 'frameworks' },
+  { name: 'HTML5', icon: <FileCode size={40} />, category: 'frameworks' },
+  { name: 'CSS3', icon: <FileCode size={40} />, category: 'frameworks' },
   { name: 'RESTful APIs', icon: <Server size={40} />, category: 'frameworks' },
 
   // Tools & Platforms
