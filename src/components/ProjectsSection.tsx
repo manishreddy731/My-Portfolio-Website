@@ -38,7 +38,16 @@ const projects: Project[] = [
     
     githubUrl: 'https://github.com/manishreddy731/Creating-Visualizations',
   },
- 
+
+  {
+    id: 4,
+    title: 'Book Store – Full Stack Web Application for Managing Personal Book Collection',
+    description: 'A full-featured web application designed to manage personal book collections with seamless user interaction.Includes dynamic CRUD operations, user authentication, flash messaging, and responsive form validation for an enhanced user experience.',
+    image: 'https://static.vecteezy.com/system/resources/previews/021/916/224/large_2x/promo-banner-with-stack-of-books-globe-inkwell-quill-plant-lantern-ebook-world-book-day-bookstore-bookshop-library-book-lover-bibliophile-education-for-poster-cover-advertising-vector.jpg',
+    technologies: ['Node.js', 'Express.js', 'MongoDB', 'HTML/CSS', 'Vercel'],
+    
+    githubUrl: 'https://github.com/manishreddy731/BookStore',
+  },
  
 ];
 
