@@ -57,7 +57,7 @@ const ResumeSection: React.FC = () => {
       institution: "Lovely Professional University",
       location: "Punjab, India",
       degree: "Bachelor of Technology - Computer Science and Engineering",
-      score: "CGPA: 6.9",
+      score: "CGPA: 7.08",
       date: "Since August 2022"
     },
     {
