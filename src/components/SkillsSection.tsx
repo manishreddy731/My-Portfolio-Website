@@ -11,7 +11,6 @@ const skills: Skill[] = [
   // Languages
   { name: 'C++', icon: <FileCode size={40} />, category: 'languages' },
   { name: 'Java', icon: <FileCode size={40} />, category: 'languages' },
-  { name: 'Python', icon: <FileCode size={40} />, category: 'languages' },
   { name: 'SQL', icon: <Database size={40} />, category: 'languages' },
   { name: 'DSA', icon: <Code size={40} />, category: 'languages' },
   
