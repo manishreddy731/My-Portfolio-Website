@@ -2,6 +2,23 @@ import React from 'react';
 import { Award, ExternalLink } from 'lucide-react';
 
 const certifications = [
+  
+  {
+    title: "Microsoft Certified: Azure Administrator Associate",
+    issuer: "Microsoft",
+    date: "2026",
+    image: "https://i2.wp.com/build5nines.com/wp-content/uploads/2019/03/Microsoft_Certified_Azure_Administrator_Associate_Featured_Image_2.png",
+    description: "Expertise in managing Azure cloud environments, including resource deployment, identity management, and workload monitoring for optimized performance and security.",
+    link: "https://media.licdn.com/dms/image/v2/D5622AQEYi228l34Brw/feedshare-shrink_2048_1536/B56ZX8lMnAGcAs-/0/1743699366192?e=1748476800&v=beta&t=qssjR9FLeYjtVXbWzn96Ut70wzqnm15cntirWWaUiYg"
+  },
+  {
+    title: "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+    issuer: "Oracle University",
+    date: "2025",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXxvNxVAhUedFaFCYhUrKZ_zAUq-zd7a8_g&s",
+    description: "Professional-level certification validating expertise in Generative AI concepts, large language models, prompt engineering, OCI AI services, and deploying generative AI solutions on Oracle Cloud Infrastructure.",
+    link: "https://education.oracle.com/oracle-cloud-infrastructure-2025-certified-generative-ai-professional/trackp_OCIGAI2025"
+  },
   {
     title: "AWS Cloud Practitioner",
     issuer: "Amazon Web Services",
@@ -9,14 +26,6 @@ const certifications = [
     image: "https://td-portal-cdn.tutorialsdojo.com/wp-content/uploads/2021/06/AWS-Certified-Cloud-Practitioner-Essentials-CLF-C01-Exam-Course-Training-2022.png",
     description: "Comprehensive understanding of AWS Cloud concepts, services, security, architecture, pricing, and support.",
     link: "https://www.coursera.org/account/accomplishments/certificate/I7LAFRCPF21C"
-  },
-  {
-    title: "Microsoft Certified: Azure Administrator Associate",
-    issuer: "Microsoft",
-    date: "2025",
-    image: "https://i2.wp.com/build5nines.com/wp-content/uploads/2019/03/Microsoft_Certified_Azure_Administrator_Associate_Featured_Image_2.png",
-    description: "Expertise in managing Azure cloud environments, including resource deployment, identity management, and workload monitoring for optimized performance and security.",
-    link: "https://media.licdn.com/dms/image/v2/D5622AQEYi228l34Brw/feedshare-shrink_2048_1536/B56ZX8lMnAGcAs-/0/1743699366192?e=1748476800&v=beta&t=qssjR9FLeYjtVXbWzn96Ut70wzqnm15cntirWWaUiYg"
   },
   {
     title: "Data Structures and Algorithms",
