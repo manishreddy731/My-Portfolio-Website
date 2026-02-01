@@ -9,7 +9,7 @@ const certifications = [
     date: "2026",
     image: "https://i2.wp.com/build5nines.com/wp-content/uploads/2019/03/Microsoft_Certified_Azure_Administrator_Associate_Featured_Image_2.png",
     description: "Expertise in managing Azure cloud environments, including resource deployment, identity management, and workload monitoring for optimized performance and security.",
-    link: "https://media.licdn.com/dms/image/v2/D5622AQEYi228l34Brw/feedshare-shrink_2048_1536/B56ZX8lMnAGcAs-/0/1743699366192?e=1748476800&v=beta&t=qssjR9FLeYjtVXbWzn96Ut70wzqnm15cntirWWaUiYg"
+    link: "https://learn.microsoft.com/api/credentials/share/en-us/ManishReddy-7496/8F7169EDB5E671AC?sharingId=71C595D7B1EAE5E0"
   },
   {
     title: "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
