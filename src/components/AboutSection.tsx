@@ -43,7 +43,7 @@ const AboutSection: React.FC = () => {
           <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden shadow-lg">
             {/* Add your profile image here */}
             <img 
-              src="https://media.licdn.com/dms/image/v2/D5603AQEfOMDdd18f1w/profile-displayphoto-shrink_800_800/B56ZSCR2TLHoAc-/0/1737352505876?e=1771459200&v=beta&t=_-_x-RkI18OXGUV1Q6DqoH_qdw6cpyFBAAotulX8nyY" 
+              src="https://drive.google.com/file/d/1H44qf8ZUxFi8bcYeMncHklPFRMjUMW2Q/view?usp=sharing" 
               alt="Your Profile Picture" 
               className="w-full h-full object-cover"
             />
