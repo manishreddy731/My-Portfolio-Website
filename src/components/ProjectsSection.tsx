@@ -13,6 +13,16 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
+    title: 'Virtual Psychological Support System (AI-Driven Wellbeing Platform)',
+    description: 'Developed an AI-driven wellbeing platform to support students with stress management through structured conversational guidance. Engineered a Node.js and Express.js backend with rule-based NLP for sentiment detection and personalized coping recommendations. Implemented secure RESTful APIs with robust validation for scalable communication between services. Designed an intuitive real-time chat interface using HTML, CSS, and JavaScript for seamless user interaction. Managed project lifecycle using Git while maintaining clean architecture for collaborative development.',
+    image: 'https://www.shutterstock.com/shutterstock/photos/2634806847/display_1500/stock-photo-cyberpunk-photo-of-ai-psychologist-hologram-speaking-during-session-2634806847.jpg',
+    technologies: ['Node.js', 'Express.js', 'NLP', 'REST API', 'JavaScript', 'HTML/CSS', 'Git'],
+    
+    githubUrl: 'https://github.com/manishreddy731',
+  },
+  
+  {
+    id: 2,
     title: 'Java based Inventory Management System',
     description: 'Developed a full-stack inventory management system integrating frontend, backend, and database components. Designed RESTful APIs with Spring Boot connected to a MySQL database for seamless CRUD operations. Built a responsive user interface using HTML, CSS, JavaScript for asynchronous interactions. Ensured secure user authentication and data validation, and deployed the application in a Linux environment using Docker, with Git for version control.',
     image: 'https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -21,7 +31,7 @@ const projects: Project[] = [
   },
 
   {
-  id: 2,
+  id: 3,
   title: 'Tetris Game – JavaScript Browser Game',
   description: 'A fully interactive browser-based Tetris game built with vanilla JavaScript, featuring real-time gameplay, keyboard controls, and responsive UI. Deployed using GitHub Pages.',
   image: 'https://learning.mcpt.ca/img/gridexample.png',
@@ -30,7 +40,7 @@ const projects: Project[] = [
 },
 
   {
-    id: 3,
+    id: 4,
     title: 'Creating Visualisations using AWS',
     description: 'A data visualization project leveraging AWS S3 for data storage and Amazon QuickSight for creating interactive, insightful dashboards and reports.',
     image: 'https://cloudcompiled.com/wp-content/uploads/2020/08/quicksight_dashboard_sample.png',
@@ -39,15 +49,7 @@ const projects: Project[] = [
     githubUrl: 'https://github.com/manishreddy731/Creating-Visualizations',
   },
 
-  {
-    id: 4,
-    title: 'Book Store – Full Stack Web Application for Managing Personal Book Collection',
-    description: 'A full-featured web application designed to manage personal book collections with seamless user interaction.Includes dynamic CRUD operations, user authentication, flash messaging, and responsive form validation for an enhanced user experience.',
-    image: 'https://static.vecteezy.com/system/resources/previews/021/916/224/large_2x/promo-banner-with-stack-of-books-globe-inkwell-quill-plant-lantern-ebook-world-book-day-bookstore-bookshop-library-book-lover-bibliophile-education-for-poster-cover-advertising-vector.jpg',
-    technologies: ['Node.js', 'Express.js', 'MongoDB', 'HTML/CSS', 'Vercel'],
-    
-    githubUrl: 'https://github.com/manishreddy731/BookStore',
-  },
+  
  
 ];
 
